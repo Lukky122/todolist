@@ -1,5 +1,5 @@
 <?php include 'db.php';
-include 'navbar.php'; ?>
+include 'navbar2.php'; ?>
 <!doctype html>
 <html lang="en">
     <head>
